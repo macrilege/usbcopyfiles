@@ -1,5 +1,5 @@
 param($Horn)
-$path = 'C:\Users\macri\Projects\Horn'
+$path = 'C:\Projects\HornSounds'
 $drives = [System.IO.DriveInfo]::GetDrives()
 $r = $drives | Where-Object { $_.DriveType -eq 'Removable' -and $_.IsReady }
 
