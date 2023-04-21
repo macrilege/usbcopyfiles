@@ -1,0 +1,1 @@
+powershell -file copytousb.ps1 "Variety"

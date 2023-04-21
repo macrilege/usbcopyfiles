@@ -1,0 +1,1 @@
+powershell -file C:\Users\macri\Projects\copytousb\copytousb.ps1 %1
